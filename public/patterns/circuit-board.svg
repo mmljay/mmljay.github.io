@@ -1,0 +1,44 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 304 304" width="304" height="304">
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M44,152L44,40L152,40L152,152Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M40,264L40,152L152,152L152,264Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M264,152L264,40L152,40L152,152Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M152,264L264,264L264,152L152,152Z"></path>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="152" cy="152" r="8"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="40" cy="40" r="6"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="40" cy="152" r="6"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="40" cy="264" r="6"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="152" cy="40" r="6"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="264" cy="40" r="6"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="264" cy="152" r="6"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="264" cy="264" r="6"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="152" cy="264" r="6"></circle>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M40,40L80,40L80,80L40,80Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M224,40L264,40L264,80L224,80Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M40,224L80,224L80,264L40,264Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M224,224L264,224L264,264L224,264Z"></path>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="80" cy="80" r="4"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="80" cy="224" r="4"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="224" cy="80" r="4"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="224" cy="224" r="4"></circle>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M80,40L96,40L96,56L80,56Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M208,40L224,40L224,56L208,56Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M80,208L96,208L96,224L80,224Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M208,208L224,208L224,224L208,224Z"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M152,72L152,40"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M192,152L224,152"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M152,192L152,224"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M112,152L80,152"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M132,132L112,112"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M172,132L192,112"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M172,172L192,192"></path>
+  <path fill="none" stroke="#1A2A3A" stroke-width="1" stroke-opacity="0.05" d="M132,172L112,192"></path>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="112" cy="112" r="3"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="192" cy="112" r="3"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="192" cy="192" r="3"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="112" cy="192" r="3"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="96" cy="152" r="3"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="152" cy="96" r="3"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="208" cy="152" r="3"></circle>
+  <circle fill="#1A2A3A" fill-opacity="0.05" cx="152" cy="208" r="3"></circle>
+</svg>
