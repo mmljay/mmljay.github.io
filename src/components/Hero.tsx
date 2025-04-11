@@ -39,7 +39,11 @@ const Hero = () => {
                 <span>Download Resume</span>
               </Button>
               
-              <Button variant="secondary" className="bg-navy/10 dark:bg-platinum/10 text-navy dark:text-platinum hover:bg-navy/20 dark:hover:bg-platinum/20">
+              <Button 
+                variant="secondary" 
+                className="bg-navy/10 dark:bg-platinum/10 text-navy dark:text-platinum hover:bg-navy/20 dark:hover:bg-platinum/20"
+                onClick={() => window.location.href = 'mailto:mmljayawardena@gmail.com'}
+              >
                 <Mail className="mr-2 h-4 w-4" />
                 <span>Contact Me</span>
               </Button>
