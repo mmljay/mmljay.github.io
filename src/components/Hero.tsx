@@ -11,18 +11,21 @@ const Hero = () => {
       <div className="container mx-auto px-4 py-12 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-12 items-center">
           <div className="lg:col-span-3 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-navy dark:text-platinum">
-              John Doe
-              <span className="block text-4xl md:text-5xl">Enterprise Quality Assurance Specialist</span>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-Green dark:text-platinum">
+            Malsha Jayawardena
+            Strategic QA Specialist 
+
+              <span className="block text-4xl md:text-3xl"></span>
             </h1>
             
             <h2 className="text-xl md:text-2xl font-semibold mb-6 text-teal">
-              Elevating software excellence through meticulous testing strategy and execution
+            Shaping quality software through smart testing strategies
             </h2>
             
             <p className="text-lg mb-8 text-gray-700 dark:text-gray-300 max-w-2xl">
-              With a passion for detecting the undetectable and a methodical approach to quality,
-              I help organizations deliver flawless software products that exceed user expectations.
+            I work closely with teams to catch problems early, improve processes, and make sure the final product meets expectations.
+
+
             </p>
             
             <div className="flex flex-wrap gap-4">

@@ -15,31 +15,31 @@ const Testimonials = () => {
       quote: "John's methodical approach to quality assurance transformed our development process. His ability to anticipate edge cases and identify potential issues before they reached production was nothing short of remarkable.",
       author: "Emily Rodriguez",
       position: "CTO",
-      company: "TechSolutions Inc."
+      
     },
     {
       quote: "Working with John was a game-changer for our product quality. His test automation framework reduced our regression testing time by 80% while improving coverage. The ROI on his expertise was immediate and substantial.",
       author: "Michael Chang",
       position: "VP of Engineering",
-      company: "InnovateSoft"
+      
     },
     {
       quote: "John doesn't just find bugs; he helps prevent them. His strategic shift-left testing approach integrated QA into our development process from day one, resulting in fewer defects and faster delivery cycles.",
       author: "Sarah Johnson",
       position: "Product Manager",
-      company: "FinTech Solutions"
+      
     },
     {
       quote: "In 15 years of software development, I've never worked with a more thorough and effective QA professional. John's attention to detail and technical expertise make him a true quality guardian for any software project.",
       author: "David Miller",
       position: "Senior Software Architect",
-      company: "Enterprise Systems"
+      
     },
     {
       quote: "John's performance testing expertise was crucial for our high-traffic e-commerce platform. He identified and helped resolve scaling issues that would have been catastrophic during our peak season.",
       author: "Jennifer Lee",
       position: "Director of Digital",
-      company: "Global Retail Group"
+      
     }
   ];
 
@@ -71,7 +71,7 @@ const Testimonials = () => {
                         {testimonial.author}
                       </p>
                       <p className="text-sm text-navy/70 dark:text-platinum/70">
-                        {testimonial.position}, {testimonial.company}
+                        {testimonial.position}
                       </p>
                     </div>
                   </div>

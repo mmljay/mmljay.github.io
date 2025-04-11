@@ -39,36 +39,8 @@ const Portfolio = () => {
         company: "Global Banking Corp"
       }
     },
-    {
-      title: "Healthcare Patient Portal Security Overhaul",
-      industry: "Healthcare",
-      technologies: ["OWASP ZAP", "Burp Suite", "Python", "Selenium", "Docker"],
-      type: "Security",
-      description: "Conducted comprehensive security testing and remediation for a patient portal handling sensitive medical data.",
-      challenges: [
-        "HIPAA compliance requirements",
-        "Legacy codebase with minimal documentation",
-        "Integration with multiple third-party healthcare systems",
-        "Limited testing window due to urgent security concerns"
-      ],
-      approach: [
-        "Conducted thorough threat modeling and risk assessment",
-        "Implemented automated security scanning in CI/CD pipeline",
-        "Performed manual penetration testing on critical pathways",
-        "Developed custom security test framework for healthcare-specific vulnerabilities"
-      ],
-      results: [
-        "Identified and remediated 37 security vulnerabilities",
-        "Achieved 100% HIPAA compliance for patient data handling",
-        "Implemented continuous security testing reducing future risks",
-        "Zero security incidents in the 18 months following implementation"
-      ],
-      testimonial: {
-        quote: "The thoroughness of the security testing uncovered issues we weren't even aware of. The methodical approach to remediation gave us complete confidence in our system's security.",
-        author: "Dr. Michael Chen",
-        company: "HealthFirst Systems"
-      }
-    },
+    
+,
     {
       title: "E-commerce Platform Performance Optimization",
       industry: "Retail",
